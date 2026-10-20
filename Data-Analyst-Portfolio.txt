@@ -1,0 +1,13 @@
+Data Analyst Portfolio
+About Me
+I am an aspiring data analyst who is developing skills in data analysis, data visualization, and data-driven problem-solving.
+
+Projects
+Student Performance Analysis – Explore academic data to identify performance patterns.
+Sales Performance Analysis – Analyze sales trends and identify top-performing products.
+Personal Expense Analysis – Examine spending habits and create a budgeting report.
+Tools
+Microsoft Excel, SQL, Python, Power BI or Tableau, and GitHub.
+
+Career Goal
+My goal is to become a skilled data analyst who can transform raw data into meaningful insights that support informed decision-making.
